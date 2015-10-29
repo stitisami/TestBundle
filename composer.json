@@ -1,0 +1,32 @@
+{
+    "name": "chesteroni/test-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony TestBundle",
+    "keywords": ["test bundle"],
+    "homepage": "http://chesteroni.github.com",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Pawel Skarzynski",
+            "email": "chesteroni [@t gmail d0T com"
+        },
+    ],
+    "require": {
+        "php": ">=5.3.9",
+        "symfony/framework-bundle": "~2.3",
+        "symfony/twig-bundle": "~2.3",
+        "symfony/form": "~2.3",
+        "symfony/security-bundle": "~2.3"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.6"
+        }
+    },
+    "support": {
+    }
+}
