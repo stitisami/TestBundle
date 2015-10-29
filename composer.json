@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Pawel Skarzynski",
-            "email": "chesteroni [@t gmail d0T com"
+            "email": "chesteroni@gmail.com"
         }
     ],
     "require": {
@@ -23,9 +23,6 @@
     "autoload": {
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.6"
-        }
     },
     "support": {
     }
