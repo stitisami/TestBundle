@@ -9,7 +9,7 @@
         {
             "name": "Pawel Skarzynski",
             "email": "chesteroni [@t gmail d0T com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.9",
