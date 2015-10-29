@@ -1,6 +1,6 @@
 <?php
 
-namespace TestBundle\DependencyInjection;
+namespace Chesteroni\TestBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
