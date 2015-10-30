@@ -26,5 +26,6 @@
     "extra": {
     },
     "support": {
-    }
+    },
+    "target-dir": "Chesteroni/TestBundle"
 }
