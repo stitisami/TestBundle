@@ -21,6 +21,7 @@
     "require-dev": {
     },
     "autoload": {
+	"psr-0": { "Chesteroni\\TestBundle": "" }
     },
     "extra": {
     },
