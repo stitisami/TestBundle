@@ -1,22 +1,18 @@
 {
-    "name": "chesteroni/test-bundle",
+    "name": "stitisami/test-bundle",
     "type": "symfony-bundle",
     "description": "Symfony TestBundle",
     "keywords": ["test bundle"],
-    "homepage": "http://chesteroni.github.com",
+    "homepage": "http://stitisami.github.com",
     "license": "Apache",
     "authors": [
         {
             "name": "Pawel Skarzynski",
-            "email": "chesteroni@gmail.com"
+            "email": "stiti.sami@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.3.9",
-        "symfony/framework-bundle": "~2.3",
-        "symfony/twig-bundle": "~2.3",
-        "symfony/form": "~2.3",
-        "symfony/security-bundle": "~2.3"
     },
     "require-dev": {
     },
@@ -24,6 +20,9 @@
 	"psr-0": { "Chesteroni\\TestBundle": "" }
     },
     "extra": {
+    	"branch-alias" : {
+            "dev-master" : "master-dev"
+        }
     },
     "support": {
     },
